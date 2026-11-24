@@ -1,0 +1,1 @@
+c:\Users\Vetal\.jdks\ms-17.0.15\bin\java.exe -jar c:\Projects\Java\UiMouseControl\target\UiMouseControl-1.0-SNAPSHOT.jar
